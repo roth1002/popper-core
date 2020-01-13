@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-docs-index-mdx","path":"/docs/","result":{"pageContext":{"isCreatedByStatefulCreatePages":true,"frontmatter":{"title":"Documentation"}}}}
+{"componentChunkName":"component---src-pages-docs-index-mdx","path":"/docs/","result":{"pageContext":{"isCreatedByStatefulCreatePages":true,"frontmatter":{"title":"Documentation","redirect_from":["/popper-documentation.html"]}}}}
